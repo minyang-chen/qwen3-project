@@ -1,0 +1,219 @@
+[
+  {
+    "page_num": 1,
+    "content": [
+      {
+        "text": "# AI-powered-Development",
+        "token": 5
+      },
+      {
+        "text": "Projects develop using autonomous coding agent workflow",
+        "token": 7
+      },
+      {
+        "text": "",
+        "token": 0
+      },
+      {
+        "text": "# Workflow",
+        "token": 2
+      },
+      {
+        "text": "![Smart AI Development Workflow](smart_development_workflow_with_Autonomous_coding_agent.png \"Smart AI Development Workflow\")",
+        "token": 24
+      },
+      {
+        "text": "",
+        "token": 0
+      },
+      {
+        "text": "",
+        "token": 0
+      },
+      {
+        "text": "# Projects",
+        "token": 2
+      },
+      {
+        "text": "",
+        "token": 0
+      },
+      {
+        "text": "## 1. LightRAG MCP Server",
+        "token": 9
+      },
+      {
+        "text": "[LightRAG MCP Server](lightRAG_MCP_Server)",
+        "token": 14
+      },
+      {
+        "text": "### Toolsets",
+        "token": 3
+      },
+      {
+        "text": "VS Code + Roo Code + Gemini 2.5 Pro",
+        "token": 12
+      },
+      {
+        "text": "### Project Prompt",
+        "token": 3
+      },
+      {
+        "text": "[Project Prompt](lightRAG_MCP_Server/project_prompt.md)",
+        "token": 14
+      },
+      {
+        "text": "",
+        "token": 0
+      },
+      {
+        "text": "## 2. Tariff News MCP Server",
+        "token": 9
+      },
+      {
+        "text": "[Tarrif News MCP Server](tariff-news-server)",
+        "token": 12
+      },
+      {
+        "text": "### Toolsets",
+        "token": 3
+      },
+      {
+        "text": "VS Code + Roo Code + Gemini 2.5 Pro",
+        "token": 12
+      },
+      {
+        "text": "### Project Prompt",
+        "token": 3
+      },
+      {
+        "text": "[Project Prompt](tariff-news-server/project_prompt.md)",
+        "token": 12
+      },
+      {
+        "text": "",
+        "token": 0
+      },
+      {
+        "text": "## 3. Foreign Currency Exchange MCP Server",
+        "token": 9
+      },
+      {
+        "text": "[forex_mcp_server](forex_mcp_server)",
+        "token": 13
+      },
+      {
+        "text": "### Toolsets",
+        "token": 3
+      },
+      {
+        "text": "VS Code + Roo Code + Gemini 2.5 Pro",
+        "token": 12
+      },
+      {
+        "text": "### Project Prompt",
+        "token": 3
+      },
+      {
+        "text": "[Project Prompt](forex_mcp_server/project_prompt.md)",
+        "token": 13
+      },
+      {
+        "text": "",
+        "token": 0
+      },
+      {
+        "text": "## 4. Stock Analyst MCP Server",
+        "token": 8
+      },
+      {
+        "text": "[stockanalyst_mcp_server](stockanalyst_mcp_server)",
+        "token": 15
+      },
+      {
+        "text": "### Toolsets",
+        "token": 3
+      },
+      {
+        "text": "VS Code + Roo Code + Gemini 2.5 Pro",
+        "token": 12
+      },
+      {
+        "text": "### Project Prompt",
+        "token": 3
+      },
+      {
+        "text": "[Project Prompt](stockanalyst_mcp_server/project_prompt.md)",
+        "token": 14
+      },
+      {
+        "text": "",
+        "token": 0
+      },
+      {
+        "text": "## 5. OpenAI Agent Visual Workflow Designer ",
+        "token": 11
+      },
+      {
+        "text": "[openai-visual-workflow](openai-visual-workflow)",
+        "token": 15
+      },
+      {
+        "text": "### Toolsets",
+        "token": 3
+      },
+      {
+        "text": "VS Code + Roo Code + Gemini 2.5 Pro",
+        "token": 12
+      },
+      {
+        "text": "### Project Prompt",
+        "token": 3
+      },
+      {
+        "text": "[Project Prompt](openai-visual-workflow/PROJECT_PROMPT.md)",
+        "token": 16
+      },
+      {
+        "text": "",
+        "token": 0
+      },
+      {
+        "text": "## 6. AWS Developer Q News Subscriber Web App ",
+        "token": 12
+      },
+      {
+        "text": "",
+        "token": 0
+      },
+      {
+        "text": "### Toolsets",
+        "token": 3
+      },
+      {
+        "text": "AWS developer Q CLI + Anthropic Sonet 3.7",
+        "token": 13
+      },
+      {
+        "text": "### Project Prompt",
+        "token": 3
+      },
+      {
+        "text": "[Project Prompt](news_sub_app/README.md)",
+        "token": 11
+      },
+      {
+        "text": "",
+        "token": 0
+      },
+      {
+        "text": "",
+        "token": 0
+      },
+      {
+        "text": "",
+        "token": 0
+      }
+    ]
+  }
+]
